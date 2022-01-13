@@ -1,0 +1,2 @@
+# mylist
+使用AdguardTeam/HostlistCompiler，通过GitHub Action自动生成一个适用于adguardhome的过滤清单，以及一个通用的trackers

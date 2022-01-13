@@ -1,0 +1,11 @@
+{
+    "version": "1.0.0",
+    "scripts": {
+        "filter": "hostlist-compiler -c src/filter.json -o filter.txt",
+        "trackerslist_all": "hostlist-compiler -c src/trackerslist_all.json -o trackerslist_all.txt",
+        "trackerslist_best": "hostlist-compiler -c src/trackerslist_best.json -o trackerslist_best.txt"
+    },
+    "dependencies": {
+        "@adguard/hostlist-compiler": "1.0.12"
+    }
+}

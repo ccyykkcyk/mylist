@@ -1,0 +1,37 @@
+{
+    "name": "trackerslist_best",
+    "sources": [
+        {
+            "source": "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/best.txt",
+            "type": "hosts"
+        },
+        {
+            "source": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best.txt",
+            "type": "hosts"
+        },
+        {
+            "source": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_best_ip.txt",
+            "type": "hosts"
+        },
+        {
+            "source": "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_best.txt",
+            "type": "hosts"
+        },
+        {
+            "source": "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_best_ip.txt",
+            "type": "hosts"
+        },
+        {
+            "source": "https://torrends.to/torrent-tracker-list/?download=latest",
+            "type": "hosts"
+        },
+        {
+            "source": "https://newtrackon.com/api/stable",
+            "type": "hosts"
+        }
+    ],
+    "transformations": [
+        "Deduplicate",
+        "RemoveComments"
+    ]
+}

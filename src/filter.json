@@ -1,0 +1,170 @@
+{
+    "name": "myfilter",
+    "description": "Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.",
+    "homepage": "https://github.com/ccyykkcyk/mylist",
+    "license": "",
+    "sources": [
+        {
+            "name": "ad-wars",
+            "source": "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts",
+            "type": "hosts",
+            "transformations": [
+                "Validate",
+                "RemoveModifiers",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "GoodbyeAds Xiaomi AdBlock",
+            "source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt",
+            "type": "hosts",
+            "transformations": [
+                "Validate",
+                "RemoveModifiers",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "ADgk",
+            "source": "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt",
+            "type": "adblock",
+            "transformations": [
+                "Validate",
+                "RemoveModifiers",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "NEO DEV HOST",
+            "source": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host",
+            "type": "hosts",
+            "transformations": [
+                "Validate",
+                "RemoveModifiers",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "yhosts",
+            "source": "https://raw.githubusercontent.com/VeleSila/yhosts/master/hosts.txt",
+            "type": "hosts",
+            "transformations": [
+                "Validate",
+                "RemoveModifiers",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "StevenBlack",
+            "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/gambling/hosts",
+            "type": "hosts",
+            "transformations": [
+                "Validate",
+                "RemoveModifiers",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "WindowsSpyBlocker",
+            "source": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt",
+            "type": "hosts",
+            "transformations": [
+                "Validate",
+                "RemoveModifiers",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "anti-AD",
+            "source": "https://raw.githubusercontent.com/privacy-protection-tools/anti-AD/master/anti-ad-easylist.txt",
+            "type": "adblock",
+            "transformations": [
+                "Validate",
+                "RemoveModifiers",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdAway Default Blocklist",
+            "source": "https://raw.githubusercontent.com/AdAway/adaway.github.io/master/hosts.txt",
+            "type": "hosts",
+            "transformations": [
+                "Validate",
+                "RemoveModifiers",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "uBlock filters",
+            "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt",
+            "type": "adblock",
+            "transformations": [
+                "Validate",
+                "RemoveModifiers",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "uBlock filters Resource abuse",
+            "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/resource-abuse.txt",
+            "type": "adblock",
+            "transformations": [
+                "Validate",
+                "RemoveModifiers",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "uBlock filters Privacy",
+            "source": "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/privacy.txt",
+            "type": "adblock",
+            "transformations": [
+                "Validate",
+                "RemoveModifiers",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "notracking/hosts-blocklists",
+            "source": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt",
+            "type": "adblock",
+            "exclusions": [
+                "||tl88.net"
+            ],
+            "transformations": [
+                "Validate",
+                "RemoveModifiers",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "AdGuard Base filter ad servers",
+            "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+            "type": "adblock",
+            "transformations": [
+                "Validate",
+                "RemoveModifiers",
+                "RemoveComments"
+            ]
+        },
+        {
+            "name": "Exception rules",
+            "source": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt",
+            "transformations": [
+                "Validate",
+                "RemoveModifiers",
+                "RemoveComments"
+            ],
+            "type": "adblock"
+        }
+    ],
+    "exclusions_sources": [
+        "https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/exclusions.txt"
+    ],
+    "transformations": [
+        "Compress",
+        "Deduplicate",
+        "RemoveComments",
+        "Validate"
+    ]
+}
