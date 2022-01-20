@@ -1,5 +1,4 @@
-udp://9.rarbg.com:2880/announce
-udp://91.216.110.52:451/announce
+udp://9.rarbg.com:2840/announce
 udp://[2001:1b10:1000:8101:0:242:ac11:2]:6969/announce
 udp://[2001:470:1:189:0:1:2:3]:6969/announce
 udp://[2a03:7220:8083:cd00::1]:451/announce
@@ -13,14 +12,13 @@ http://retracker.hotplug.ru:2710/announce
 http://tracker.birkenwald.de:6969/announce
 udp://152.231.114.171:1337/announce
 udp://93.158.213.92:1337/announce
-udp://151.80.120.113:2810/announce
-udp://45.154.253.6:6969/announce
+udp://151.80.120.112:2810/announce
 udp://208.83.20.20:6969/announce
-http://45.154.253.6:80/announce
-udp://62.210.217.207:1337/announce
-udp://89.234.156.205:451/announce
+udp://91.216.110.52:451/announce
 udp://5.79.236.102:6969/announce
-udp://217.30.10.18:6969/announce
+udp://65.108.63.133:80/announce
+udp://45.154.253.6:6969/announce
+udp://217.30.10.83:6969/announce
 udp://45.14.225.8:1337/announce
 udp://109.72.83.209:80/announce
 udp://212.1.226.176:2710/announce
@@ -29,15 +27,15 @@ udp://213.108.129.160:6969/announce
 udp://184.105.151.166:6969/announce
 udp://207.241.231.226:6969/announce
 udp://207.241.226.111:6969/announce
-udp://13.234.33.230:6969/announce
-udp://89.36.216.8:6969/announce
-http://159.69.65.157:6969/announce
-http://217.30.10.18:6969/announce
-http://54.39.98.124:80/announce
+http://171.105.76.169:6969/announce
+http://45.154.253.6:80/announce
+http://217.30.10.83:6969/announce
+http://93.88.129.16:80/announce
+http://171.105.76.31:6969/announce
 udp://205.185.121.146:6969/announce
+udp://62.210.217.207:1337/announce
 udp://209.141.59.16:6969/announce
 udp://62.109.31.95:6969/announce
-udp://65.108.63.133:80/announce
 udp://93.104.214.40:6969/announce
 udp://65.21.48.148:6969/announce
 udp://95.217.161.135:6969/announce
@@ -48,36 +46,34 @@ udp://114.216.182.218:6969/announce
 udp://88.80.28.7:6969/announce
 udp://185.134.22.3:6969/announce
 udp://180.97.219.76:8070/announce
-udp://51.15.3.74:6969/announce
 udp://50.116.14.248:6969/announce
 udp://176.123.8.121:3391/announce
 udp://61.164.110.198:6969/announce
+udp://54.93.194.194:6969/announce
 udp://39.106.122.67:6969/announce
 udp://51.159.186.41:6969/announce
+udp://89.36.216.8:6969/announce
+http://37.235.174.46:2710/announce
 http://157.90.169.123:80/announce
 http://156.234.201.18:80/announce
-http://171.105.76.169:6969/announce
+http://13.234.33.230:2710/announce
 http://95.217.161.135:80/announce
+http://159.69.65.157:6969/announce
 http://179.225.220.141:6969/announce
-http://171.105.76.31:6969/announce
-http://212.6.3.67:80/announce
-udp://9.rarbg.com:2810/announce
-udp://tracker.openbittorrent.com:6969/announce
-udp://retracker.netbynet.ru:2710/announce
-udp://opentor.org:2710/announce
-udp://explodie.org:6969/announce
-udp://bt.oiyo.tk:6969/announce
+http://91.230.210.146:80/announce
 udp://tracker.loadbt.com:6969/announce
 udp://tracker.leech.ie:1337/announce
 udp://tracker.fatkhoala.org:13710/announce
 udp://tracker.ddunlimited.net:6969/announce
 udp://tr.cili001.com:8070/announce
 udp://inferno.demonoid.is:3391/announce
+udp://bt.oiyo.tk:6969/announce
 udp://bclearning.top:6969/announce
 wss://tracker.files.fm:7073/announce
 wss://tracker.btorrent.xyz
 wss://spacetradersapi-chatbox.herokuapp.com:443/announce
 ws://tracker.files.fm:7072/announce
+ws://hub.bugout.link:80/announce
 udp://retracker01-msk-virt.corbina.net/announce
 udp://open.stealth.si/announce
 udp://tracker.openbittorrent.com/announce
@@ -92,14 +88,11 @@ udp://149.28.47.87:1738/announce
 udp://45.33.83.49:6969/announce
 udp://199.217.118.72:6969/announce
 udp://public.publictracker.xyz:6969/announce
-udp://tracker-udp.gbitt.info:80/announce
-udp://tracker.moeking.me:6969/announce
 udp://185.21.216.185:6969/announce
 udp://185.92.223.36:6969/announce
 udp://tracker-udp.anirena.com:80/announce
 udp://37.59.48.81:6969/announce
 udp://163.172.170.127:6969/announce
-udp://tracker.dler.org:6969/announce
 udp://discord.heihachi.pw:6969/announce
 udp://148.251.53.72:6969/announce
 udp://91.121.145.207:6969/announce
@@ -119,7 +112,6 @@ udp://109.248.43.36:6969/announce
 udp://185.8.156.2:6969/announce
 udp://bt.okmp3.ru:2710/announce
 udp://193.34.92.5:80/announce
-udp://tracker.tiny-vps.com:6969/announce
 udp://retracker.sevstar.net:2710/announce
 udp://tracker.monitorit4.me:6969/announce
 udp://tracker.srv00.com:6969/announce
@@ -128,7 +120,6 @@ udp://tracker.kali.org:6969/announce
 udp://concen.org:6969/announce
 udp://opentrackr.org:1337/announce
 udp://openbittorrent.com:80/announce
-udp://mts.tvbit.co:6969/announce
 udp://admin.videoenpoche.info:6969/announce
 udp://tracker.haynet.io:6969/announce
 udp://rutorrent.frontline-mod.com:6969/announce
@@ -159,13 +150,10 @@ udp://tracker.internetwarriors.net:1337/announce
 udp://156.234.201.18:80/announce
 udp://tracker.internetwarriors.net:1337/announce
 udp://tracker.filemail.com:6969/announce
-udp://open.tracker.cl:1337/announce
 udp://tracker.internetwarriors.net:1337/announce	-
 udp://37.235.174.46:2710/announce
 udp://tracker4.itzmx.com:2710/announce
-udp://retracker.lanta-net.ru:2710/announce
 udp://9.rarbg.me:2890/announce
-udp://9.rarbg.com:2760/announce
 udp://9.rarbg.me:2900/announce
 udp://9.rarbg.com:2890/announce
 udp://9.rarbg.me:2750/announce
@@ -271,7 +259,6 @@ http://93.158.213.92:1337/announce
 http://torrent-team.net/announce.php
 http://anidex.moe:6969/announce
 http://torrents.linuxmint.com/announce.php
-http://buny.uk:6969/announce
 http://open.acgnxtracker.com/announce
 http://milanesitracker.tekcities.com:80/announce
 http://trk.publictracker.xyz:6969/announce
@@ -478,6 +465,9 @@ http://tracker.pimp4003.net/announce
 http://bluebird-hd.org/announce.php
 http://www.shnflac.net/announce.php
 http://trackers.ibzu.me/announce.php
+http://tracker.edkj.club:6969/announce
+http://tracker.istole.it/announce
+http://torrent-tracker.ru/announce.php
 https://trackme.theom.nz/announce
 https://tracker.nanoha.org/announce
 https://carbon-bonsai-621.appspot.com:443/announce
@@ -566,145 +556,19 @@ http://91.230.210.146/announce
 http://93.88.129.16/announce
 http://45.154.253.7/announce
 http://163.172.209.40/announce
-<!DOCTYPE html>
-<html lang="en">
-<head>
-	<meta charset="utf-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Torrent Search</title>
-<!-- This site is optimized with the Yoast SEO plugin v11.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<!-- / Yoast SEO plugin. -->
-<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='normalize-css'  href='https://torrends.to/theme/assets/css/normalize.css?ver=5.5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='sbasic-css'  href='https://torrends.to/theme/assets/css/sbasic.css?ver=5.5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='fdn-css'  href='https://torrends.to/theme/assets/css/fdn.css?ver=5.5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='global-css'  href='https://torrends.to/theme/assets/css/global.css?ver=5.5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='head-foot-css'  href='https://torrends.to/theme/assets/css/head-foot.css?ver=5.5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='pages-css'  href='https://torrends.to/theme/assets/css/pages.css?ver=5.5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='sites-css'  href='https://torrends.to/theme/assets/css/sites.css?ver=5.5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='frontpage-css'  href='https://torrends.to/theme/assets/css/frontpage.css?ver=5.5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='category-css'  href='https://torrends.to/theme/assets/css/category.css?ver=5.5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='search-css'  href='https://torrends.to/theme/assets/css/search.css?ver=5.5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='settings-css'  href='https://torrends.to/theme/assets/css/settings.css?ver=5.5.3' type='text/css' media='all' />
-<link rel='stylesheet' id='das-css'  href='https://torrends.to/theme/assets/css/das.css?ver=5.5.3' type='text/css' media='all' />
-<style type="text/css">.broken_link, a.broken_link {
-	text-decoration: line-through;
-}</style>	<meta name="robots" content="noindex,nofollow">	<script type="text/javascript">
-	var ajaxurl = "https://torrends.to/ajax.php";
-	var siteurl = "https://torrends.to";
-	var searchUrl = "https://search.torrends.to";
-	</script>
-	<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-	<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600' rel='stylesheet' type='text/css'>
-	<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-	<link rel="search" type="application/opensearchdescription+xml" title="Torrents Search" href="/opensearch.xml"/>
-	<link rel="icon" type="image/png" href="https://torrends.to/theme/assets/img/favicon.png">
-	</head>
-<body>
-<div class="search-panel">
-  <div class="row">
-    <div class="small-12 large-8 columns">
-      <div class="s-form">
-        <div class="logo-s"><a href="https://torrends.to"><img src="https://torrends.to/theme/assets/img/logo-s.png" alt="torrents" /></a></div>
-        <div class="form-wrap">
-          <form method="POST" action="https://search.torrends.to/ajax.php:" class="nav-search-form">
-            <div class="nav-right">
-              <div class="nav-search-submit">
-                <button type="reset" class="clear-search-input" style="display:none !important;"><i class="fa fa-times"></i></button><button type="submit" class="btn-submit-search"><i class="fa fa-search"></i></button>
-              </div>
-            <div class="nav-fill">
-              <div class="nav-search-field"><input type="text" class="nav-search-input" value="ajax.php" /></div>
-            </div>
-          </form>
-        </div>
-      </div><!-- s-form -->
-      <div class="scroll-btns invisible" style="float:right">
-        <a href="#" title="" class="scroll-right"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
-        <a href="#" title="" class="scroll-left"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
-      </div>
-      <div class="s-sites">
-        <span class="spinner" style="float:left"></span>
-        <ul class="search-sites">
-                      <li class="search-site site-selected">
-              <a href="https://search.torrends.to/ajax.php:torrentseeker" id="2268" title="Search torrents on Torrentseeker"
-                data-name="torrentseeker" data-proxy="https://torrentseeker.com" data-url="https://torrentseeker.com" data-search-url="search.php?q=@@s@@" rel="nofollow">
-                Torrentseeker              </a>
-              <a href="https://search.torrends.to/ajax.php:pirate-bay" id="9" title="Search torrents on Pirate Bay"
-                data-name="pirate-bay" data-proxy="https://pirateproxy.buzz" data-url="https://pirateproxy.buzz" data-search-url="search/@@s@@" rel="nofollow">
-                Pirate Bay              </a>
-              <a href="https://search.torrends.to/ajax.php:limetorrents" id="1099" title="Search torrents on LimeTorrents"
-                data-name="limetorrents" data-proxy="https://limetorrents.asia" data-url="https://www.limetorrents.info" data-search-url="search/all/@@s@@/" rel="nofollow">
-                LimeTorrents              </a>
-              <a href="https://search.torrends.to/ajax.php:torrentgalaxy" id="5566" title="Search torrents on TorrentGalaxy"
-                data-name="torrentgalaxy" data-proxy="https://torrentgalaxy.mx" data-url="https://torrentgalaxy.to" data-search-url="torrents.php?search=@@s@@#results" rel="nofollow">
-                TorrentGalaxy              </a>
-              <a href="https://search.torrends.to/ajax.php:nyaa-si" id="3583" title="Search torrents on Nyaa"
-                data-name="nyaa-si" data-proxy="https://nyaatorrents.info" data-url="https://nyaa.si" data-search-url="?f=0&c=0_0&q=@@s@@" rel="nofollow">
-                Nyaa              </a>
-              <a href="https://search.torrends.to/ajax.php:zooqle" id="2548" title="Search torrents on Zooqle"
-                data-name="zooqle" data-proxy="https://zooqle.unblocked.win" data-url="https://zooqle.com/" data-search-url="search?q=@@s@@" rel="nofollow">
-                Zooqle              </a>
-              <a href="https://search.torrends.to/ajax.php:torrentz2" id="2530" title="Search torrents on Torrentz2"
-                data-name="torrentz2" data-proxy="https://torrentz2.is" data-url="https://torrentz2.is" data-search-url="search?f=@@s@@" rel="nofollow">
-                Torrentz2              </a>
-              <a href="https://search.torrends.to/ajax.php:torlock" id="1524" title="Search torrents on Torlock"
-                data-name="torlock" data-proxy="https://torlock.unblockit.kim" data-url="http://www.torlock.com" data-search-url="all/torrents/@@s@@.html" rel="nofollow">
-                Torlock              </a>
-              <a href="https://search.torrends.to/ajax.php:1337x" id="273" title="Search torrents on 1337x"
-                data-name="1337x" data-proxy="https://1337x.is" data-url="https://1337x.to" data-search-url="srch?search=@@s@@" rel="nofollow">
-                1337x              </a>
-                        <li class="search-site ">
-              <a href="https://search.torrends.to/ajax.php:rarbg" id="127" title="Search torrents on RARBG"
-                data-name="rarbg" data-proxy="https://rarbgmirror.com" data-url="https://rarbg.to" data-search-url="torrents.php?search=@@s@@" rel="nofollow">
-                RARBG              </a>
-            </li>
-                        <li class="add-more-link"><a href="https://torrends.to/settings/" rel="nofollow" onclick="ga('send', 'event', 'Feature', 'click', 'Add torrent sites');">Add torrent sites</a></li>
-          </ul>
-        </div><!-- s-sites -->
-      </div><!-- large-4 -->
-      <div class="large-4 show-for-large-up columns">
-        <div class="s-options">
-          <div class="search-options">
-            <a href="https://torrends.to/settings/" rel="nofollow" onclick="ga('send', 'event', 'Feature', 'click', 'Search settings link');">Customize Search Sites</a>
-          <div class="switch-wrapper">
-            <span>Proxy</span>
-            <fieldset class="switch" tabindex="0">
-              <input id="toggle-site-proxy" type="checkbox"  onclick="ga('send', 'event', 'Feature', 'click', 'Proxy on-off');">
-              <label for="toggle-site-proxy"></label>
-            </fieldset>
-          </div>
-        </div><!-- s-option -->
-      </div><!-- large-3 -->
-    </div><!-- row -->
-  </div><!-- search-panel -->
-  <div class="target-site">
-          <iframe class="target-site-frame" src="https://torrentseeker.com/search.php?q=ajax.php"></iframe>
-      </div><!-- target-site -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
-<script src="https://torrends.to/theme/assets/js/jquery-ui.min.js"></script>
-<script src="https://torrends.to/theme/assets/js/foundation.min.js"></script>
-<script src="https://torrends.to/theme/assets/js/foundation.tab.js"></script>
-<script type="text/javascript">$(document).foundation();</script>
-<script src="https://torrends.to/theme/assets/js/script.js"></script>
-<!-- Google Analytics -->
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-137843655-1', 'auto');
-ga('send', 'pageview');
-<!-- End Google Analytics -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  ga('create', 'UA-91357-1', 'auto');
-  if ( $(".nav-search-input").val() != "" ) {
-  	ga('send', 'event', 'Search', 'search', $(".nav-search-input").val() );
-  }
-</script>
-</body>
-</html>
+udp://9.rarbg.com:2760/announce
+udp://open.tracker.cl:1337/announce
+udp://9.rarbg.com:2810/announce
+udp://tracker.tiny-vps.com:6969/announce
+udp://tracker.openbittorrent.com:6969/announce
+udp://tracker.moeking.me:6969/announce
+udp://tracker.dler.org:6969/announce
+udp://tracker-udp.gbitt.info:80/announce
+udp://retracker.netbynet.ru:2710/announce
+udp://retracker.lanta-net.ru:2710/announce
+udp://opentor.org:2710/announce
+udp://mts.tvbit.co:6969/announce
+udp://explodie.org:6969/announce
 udp://tracker.opentrackr.org:1337/announce
 udp://open.stealth.si:80/announce
 http://tracker.ipv6tracker.ru:80/announce
@@ -719,14 +583,13 @@ udp://fe.dealclub.de:6969/announce
 udp://movies.zsw.ca:6969/announce
 udp://code2chicken.nl:6969/announce
 udp://abufinzio.monocul.us:6969/announce
-https://tracker.lilithraws.cf:443/announce
 udp://vibe.sleepyinternetfun.xyz:1738/announce
 https://tracker.kuroy.me:443/announce
 udp://tracker.jordan.im:6969/announce
 udp://tracker.dix.tf:6969/announce
 udp://tracker.sylphix.com:6969/announce
 https://tracker.lilithraws.org:443/announce
-udp://engplus.ru:6969/announce
+udp://pldm.ml:6969/announce
 udp://mail.realliferpg.de:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
 udp://tracker.altrosky.nl:6969/announce
@@ -740,16 +603,18 @@ udp://tracker.cyberia.is:6969/announce
 udp://retracker.hotplug.ru:2710/announce
 http://t.acg.rip:6699/announce
 udp://tracker.beeimg.com:6969/announce
+udp://engplus.ru:6969/announce
 http://bt.okmp3.ru:2710/announce
 udp://tracker.torrent.eu.org:451/announce
 udp://tracker.bitsearch.to:1337/announce
 udp://tracker.auctor.tv:6969/announce
 https://tr.burnabyhighstar.com:443/announce
-udp://tracker.0x.tf:6969/announce
-udp://pow7.com:80/announce
-https://tracker.vectahosting.eu:8443/announce
 udp://torrentclub.space:6969/announce
+udp://tracker.0x.tf:6969/announce
 https://t.btcland.xyz:443/announce
+https://tracker.vectahosting.eu:8443/announce
+https://tracker.lilithraws.cf:443/announce
+udp://pow7.com:80/announce
 udp://tracker.moeking.eu.org:6969/announce
 https://tr.doogh.club:443/announce
 udp://tracker.theoks.net:6969/announce
@@ -759,12 +624,13 @@ http://tracker.mywaifu.best:6969/announce
 udp://udp-tracker.shittyurl.org:6969/announce
 https://tracker.iriseden.fr:443/announce
 http://t.nyaatracker.com:80/announce
-udp://tracker1.bt.moack.co.kr:80/announce
 udp://bt2.archive.org:6969/announce
-https://tr.torland.ga:443/announce
-udp://bt1.archive.org:6969/announce
+udp://tracker1.bt.moack.co.kr:80/announce
 udp://bubu.mapfactor.com:6969/announce
-udp://9.rarbg.com:2950/announce
-http://home.yxgz.vip:6969/announce
+udp://bt1.archive.org:6969/announce
+https://tr.torland.ga:443/announce
+http://buny.uk:6969/announce
 https://tracker.nitrix.me:443/announce
+udp://9.rarbg.com:2730/announce
+http://home.yxgz.vip:6969/announce
 udp://www.torrent.eu.org:451/announce
