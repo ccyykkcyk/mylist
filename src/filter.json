@@ -32,7 +32,8 @@
                 "Validate",
                 "RemoveModifiers",
                 "RemoveComments"
-            ]
+            ],
+            "exclusions":["||xn--"]
         },
         {
             "name": "NEO DEV HOST",
