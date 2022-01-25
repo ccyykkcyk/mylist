@@ -174,6 +174,7 @@ udp://9.rarbg.me:2930/announce
 udp://151.80.120.114:2710/announce
 udp://9.rarbg.com:2740/announce
 udp://9.rarbg.me:2960/announce
+udp://9.rarbg.com:2900/announce
 udp://9.rarbg.me:2840/announce
 udp://9.rarbg.com:2830/announce
 udp://9.rarbg.me:2710/announce
@@ -569,7 +570,6 @@ http://91.230.210.146/announce
 http://93.88.129.16/announce
 http://45.154.253.7/announce
 http://163.172.209.40/announce
-udp://9.rarbg.com:2940/announce
 udp://open.tracker.cl:1337/announce
 udp://9.rarbg.com:2810/announce
 http://tracker.openbittorrent.com:80/announce
@@ -607,7 +607,6 @@ https://tr.highstar.shop:443/announce
 https://t.btcland.xyz:443/announce
 https://tr.fuckbitcoin.xyz:443/announce
 https://tracker.lilithraws.org:443/announce
-udp://udp.yarr.pt:1337/announce
 https://tracker.yarr.pt:443/announce
 udp://mail.realliferpg.de:6969/announce
 udp://6ahddutb1ucc3cp.ru:6969/announce
@@ -636,15 +635,17 @@ udp://tracker.zerobytes.xyz:1337/announce
 http://t.nyaatracker.com:80/announce
 udp://movies.zsw.ca:6969/announce
 https://tracker.iriseden.fr:443/announce
-http://home.yxgz.vip:6969/announce
+udp://static.46.73.46.78.clients.your-server.de:8000/announce
 https://tr.torland.ga:443/announce
+http://home.yxgz.vip:6969/announce
 udp://ipv6.tracker.monitorit4.me:6969/announce
 udp://tracker.monitorit4.me:6969/announce
+udp://udp.yarr.pt:1337/announce
 udp://bt2.archive.org:6969/announce
 udp://tracker1.bt.moack.co.kr:80/announce
-udp://udp-tracker.shittyurl.org:6969/announce
 udp://bt1.archive.org:6969/announce
-udp://www.torrent.eu.org:451/announce
 udp://tracker6.lelux.fi:6969/announce
-udp://9.rarbg.com:2900/announce
+udp://www.torrent.eu.org:451/announce
+udp://udp-tracker.shittyurl.org:6969/announce
 udp://bubu.mapfactor.com:6969/announce
+udp://9.rarbg.com:2880/announce
