@@ -10,8 +10,7 @@
             "type": "hosts",
             "transformations": [
                 "Validate",
-                "RemoveModifiers",
-                "RemoveComments"
+                "RemoveModifiers"
             ]
         },
         {
@@ -20,8 +19,7 @@
             "type": "hosts",
             "transformations": [
                 "Validate",
-                "RemoveModifiers",
-                "RemoveComments"
+                "RemoveModifiers"
             ]
         },
         {
@@ -30,8 +28,7 @@
             "type": "adblock",
             "transformations": [
                 "Validate",
-                "RemoveModifiers",
-                "RemoveComments"
+                "RemoveModifiers"
             ],
             "exclusions":["||xn--"]
         },
@@ -41,8 +38,7 @@
             "type": "hosts",
             "transformations": [
                 "Validate",
-                "RemoveModifiers",
-                "RemoveComments"
+                "RemoveModifiers"
             ]
         },
         {
@@ -51,8 +47,7 @@
             "type": "hosts",
             "transformations": [
                 "Validate",
-                "RemoveModifiers",
-                "RemoveComments"
+                "RemoveModifiers"
             ]
         },
         {
@@ -61,8 +56,7 @@
             "type": "hosts",
             "transformations": [
                 "Validate",
-                "RemoveModifiers",
-                "RemoveComments"
+                "RemoveModifiers"
             ]
         },
         {
@@ -71,8 +65,7 @@
             "type": "hosts",
             "transformations": [
                 "Validate",
-                "RemoveModifiers",
-                "RemoveComments"
+                "RemoveModifiers"
             ]
         },
         {
@@ -81,8 +74,7 @@
             "type": "adblock",
             "transformations": [
                 "Validate",
-                "RemoveModifiers",
-                "RemoveComments"
+                "RemoveModifiers"
             ]
         },
         {
@@ -91,8 +83,7 @@
             "type": "hosts",
             "transformations": [
                 "Validate",
-                "RemoveModifiers",
-                "RemoveComments"
+                "RemoveModifiers"
             ]
         },
         {
@@ -101,8 +92,7 @@
             "type": "adblock",
             "transformations": [
                 "Validate",
-                "RemoveModifiers",
-                "RemoveComments"
+                "RemoveModifiers"
             ]
         },
         {
@@ -111,8 +101,7 @@
             "type": "adblock",
             "transformations": [
                 "Validate",
-                "RemoveModifiers",
-                "RemoveComments"
+                "RemoveModifiers"
             ]
         },
         {
@@ -121,8 +110,7 @@
             "type": "adblock",
             "transformations": [
                 "Validate",
-                "RemoveModifiers",
-                "RemoveComments"
+                "RemoveModifiers"
             ]
         },
         {
@@ -134,8 +122,7 @@
             ],
             "transformations": [
                 "Validate",
-                "RemoveModifiers",
-                "RemoveComments"
+                "RemoveModifiers"
             ]
         },
         {
@@ -144,8 +131,7 @@
             "type": "adblock",
             "transformations": [
                 "Validate",
-                "RemoveModifiers",
-                "RemoveComments"
+                "RemoveModifiers"
             ]
         },
         {
@@ -153,8 +139,7 @@
             "source": "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exceptions.txt",
             "transformations": [
                 "Validate",
-                "RemoveModifiers",
-                "RemoveComments"
+                "RemoveModifiers"
             ],
             "type": "adblock"
         }
@@ -164,8 +149,6 @@
     ],
     "transformations": [
         "Compress",
-        "Deduplicate",
-        "RemoveComments",
         "Validate"
     ]
 }

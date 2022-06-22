@@ -28,9 +28,9 @@ jobs:
 
       - name: format
         run: |
-          sed -i '/^!/d;/^\s*$/d' trackerslist_all.txt
-          sed -i '/^!/d;/^\s*$/d' trackerslist_best.txt
-          sed -i '/^\s*$/d' filter.txt
+          # sed -i '/^!/d;/^\s*$/d' trackerslist_all.txt
+          # sed -i '/^!/d;/^\s*$/d' trackerslist_best.txt
+          # sed -i '/^\s*$/d' filter.txt
 
       - name: commit
         run: |
