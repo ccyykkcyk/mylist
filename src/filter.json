@@ -130,7 +130,7 @@
             "source": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt",
             "type": "adblock",
             "exclusions": [
-                "||tl88.net"
+                "||cdn.dnsv1.com"
             ],
             "transformations": [
                 "Validate",
