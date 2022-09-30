@@ -1,0 +1,40 @@
+# MSN 中国
+||c.msn.com^$important
+||ntp.msn.com^$important
+||ntp.msn.cn^$important
+||assets.msn.cn^$important
+||api.msn.com^$important
+||browser.events.data.msn.com^$important
+||img-s-msn-com.akamaized.net^$important
+
+# misc
+
+||dg.k.jd.com^$important
+||*-*.snssdk.com^$important
+||qianbao.baidu.com^$important
+||update.baidu.com^$important
+||api.mousegesturesapi.com^$important
+||img0.zone139.com^$important
+||m.jf.10086.cn^$important
+||www.sysceo.com^$important
+||www.lwd3699.com^$important
+||www.dayanzai.me^$important
+||datasink.dxmpay.com^$important
+||www.dxmpay.com^$important
+||mapi.m.jd.com^$important
+||activity.doumobfour.club^$important
+||baifubao.com^$important
+||app.duxiaoman.com^$important
+||qingting.fm^$important^$important
+||helpgamemoneysdk1.ksmobile.com^$important
+||mbdp02.bdstatic.com^$important
+||*.infinitynewtab.com^$important
+||weather-api.extfans.com^$important
+
+
+# ------------ #
+
+# misc
+
+@@||umap.meizu.com^$important
+@@||ww2.mathworks.cn^$important
