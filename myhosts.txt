@@ -3,6 +3,9 @@
 203.208.40.66   translate.googleapis.com
 203.208.40.66   translate.google.com
 
+# 谷歌字体
+203.208.41.34   fonts.gstatic.com
+
 # 禁漫天堂
 104.22.73.193   jmcomic1.cc cdn-msp.jmcomic1.cc
 104.23.129.6    18comic.vip
