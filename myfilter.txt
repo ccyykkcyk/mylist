@@ -1,9 +1,24 @@
-# MSN 中国
+# need to sort
+@@||p.qlogo.cn^$important
+@@||ourl.co^$important
+@@||static.zhihu.com^$important
+@@||sched.tdnsv8.com^$important
+@@||res.wx.qq.com^$important
+@@||mmbiz.qpic.cn^$important
+||himg.bdimg.com^$important
+@@||pan.quark.cn^$important
+@@||drive.quark.cn^$important
+@@||t.uc.cn^$important
+
+
+# MSN
 ||c.msn.com^$important
-||ntp.msn.com^$important
 ||ntp.msn.cn^$important
-||assets.msn.cn^$important
+||ntp.msn.com^$important
 ||api.msn.com^$important
+||assets.msn.cn^$important
+||service.weather.msn.cn^$important
+||browser.events.data.msn.cn^$important
 ||browser.events.data.msn.com^$important
 ||img-s-msn-com.akamaized.net^$important
 
@@ -11,8 +26,10 @@
 
 ||dg.k.jd.com^$important
 ||*-*.snssdk.com^$important
-||qianbao.baidu.com^$important
+@@||ib.snssdk.com^$important
+||mime.baidu.com^$important
 ||update.baidu.com^$important
+||qianbao.baidu.com^$important
 ||api.mousegesturesapi.com^$important
 ||img0.zone139.com^$important
 ||m.jf.10086.cn^$important

@@ -1,18 +1,15 @@
-# 谷歌翻译
-180.163.151.162 translate.googleapis.com
-203.208.40.66   translate.googleapis.com
-203.208.40.66   translate.google.com
-
-# 谷歌字体
-203.208.41.34   fonts.gstatic.com
+# 谷歌服务
+203.208.40.66   translate.googleapis.com translate.google.com fonts.gstatic.com
 
 # 禁漫天堂
-104.22.73.193   jmcomic1.cc cdn-msp.jmcomic1.cc
-104.23.129.6    18comic.vip
-104.23.128.6    cdn-msp.18comic.vip
+104.23.129.6    18comic.vip cdn-msp.18comic.vip
+104.21.59.186   jmcomic1.mobi cdn-msp.jmcomic1.mobi
+104.21.39.98    jmcomic.mobi cdn-msp.jmcomic.mobi
+104.21.80.246   jmcomic.asia cdn-msp.jmcomic.asia
+168.95.246.3    pic.pimg.tw
 
 # 哔咔漫画
-104.22.65.159   img.picacomic.com storage1.picacomic.com picaapi.picacomic.com
+104.22.65.159   img.picacomic.com storage1.picacomic.com picaapi.picacomic.com storage-b.picacomic.com
 
 # VCB 论坛
 47.240.95.103   bbs.vcb-s.com
