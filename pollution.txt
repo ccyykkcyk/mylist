@@ -101,8 +101,34 @@
 216.239.32.40	mt7.gstatic.com
 # Gstatic End
 
+# Google Service:Ncr Start
+216.239.32.40	accounts.google.com
+216.239.32.40	myaccount.google.com
+216.239.32.40	assistant.google.com
+216.239.32.40	books.google.com
+216.239.32.40	blogsearch.google.com
+216.239.32.40	clients1.google.com
+216.239.32.40	desktop.google.com
+216.239.32.40	desktop4.google.com
+216.239.32.40	gxc.google.com
+216.239.32.40	get.google.com
+216.239.32.40	gsuite.google.com
+216.239.32.40	image.google.com
+216.239.32.40	video.google.com
+216.239.32.40	jmt17.google.com
+216.239.32.40	maps.google.com
+216.239.32.40	mobile.google.com
+216.239.32.40	news.google.com
+216.239.32.40	patents.google.com
+216.239.32.40	places.google.com
+216.239.32.40	privacy.google.com
+216.239.32.40	translate.google.com
+216.239.32.40	toolbarqueries.google.com
+216.239.32.40	scholar.google.com
+# Google Service:Ncr End
+
 # Google Apis Start
-216.239.32.40   translate.google.com
+216.239.32.40   ulp1p-pa.googleapis.com
 216.239.32.40   translate-pa.googleapis.com
 216.239.32.40   translate.googleapis.com
 216.239.32.40	www.googleapis.com
