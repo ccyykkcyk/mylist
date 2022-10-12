@@ -4,6 +4,9 @@
 104.21.39.98    jmcomic.mobi cdn-msp.jmcomic.mobi
 104.21.80.246   jmcomic.asia cdn-msp.jmcomic.asia
 168.95.246.3    pic.pimg.tw
+104.23.134.17   cdn-msp.18comic.org
+104.22.2.186    jmcomic2.moe
+172.67.6.206    jmcomic1.city cdn-msp.jmcomic1.city
 # 禁漫天堂 End
 
 # 哔咔漫画 Start
