@@ -215,6 +215,7 @@
 # Google Apis End
 
 # Google Service Start
+216.239.32.40   mtalk.google.com
 216.239.32.40	blog.google
 216.239.32.40	www.blog.google
 216.239.32.40	environment.google
