@@ -1,16 +1,31 @@
+||18comic.vip^$dnsrewrite=NOERROR;A;104.23.128.6
+||18comic.vip^$dnsrewrite=NOERROR;A;104.23.129.6
+||18comic.vip^$dnsrewrite=NOERROR;AAAA;2606:4700:11::6817:8006
+||18comic.vip^$dnsrewrite=NOERROR;AAAA;2606:4700:11::6817:8106
+
+||18comic.org^$dnsrewrite=NOERROR;A;104.23.133.17
+||18comic.org^$dnsrewrite=NOERROR;A;104.23.134.17
+||18comic.org^$dnsrewrite=NOERROR;AAAA;2606:4700:11::6817:8511
+||18comic.org^$dnsrewrite=NOERROR;AAAA;2606:4700:11::6817:8611
+
+||picacomic.com^$dnsrewrite=NOERROR;A;104.22.64.159
+||picacomic.com^$dnsrewrite=NOERROR;A;104.22.65.159
+||picacomic.com^$dnsrewrite=NOERROR;A;172.67.7.24
+||picacomic.com^$dnsrewrite=NOERROR;AAAA;2606:4700:10::6816:409f
+||picacomic.com^$dnsrewrite=NOERROR;AAAA;2606:4700:10::6816:419f
+||picacomic.com^$dnsrewrite=NOERROR;AAAA;2606:4700:10::ac43:718
+
 # 禁漫天堂 Start
-104.23.129.6    18comic.vip cdn-msp.18comic.vip
 104.21.59.186   jmcomic1.mobi cdn-msp.jmcomic1.mobi
 104.21.39.98    jmcomic.mobi cdn-msp.jmcomic.mobi
 104.21.80.246   jmcomic.asia cdn-msp.jmcomic.asia
 168.95.246.3    pic.pimg.tw
-104.23.134.17   18comic.org cdn-msp.18comic.org
-104.22.2.186    jmcomic2.moe
+#104.22.2.186    jmcomic2.moe
 172.67.6.206    jmcomic1.city cdn-msp.jmcomic1.city
 # 禁漫天堂 End
 
 # 哔咔漫画 Start
-104.22.65.159   img.picacomic.com storage1.picacomic.com picaapi.picacomic.com storage-b.picacomic.com
+#104.22.65.159   img.picacomic.com storage1.picacomic.com picaapi.picacomic.com storage-b.picacomic.com
 # 哔咔漫画 End
 
 # Google
