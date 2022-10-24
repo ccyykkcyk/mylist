@@ -37,6 +37,16 @@
 ||video.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e00::601:1
 ||video.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e02::946:1
 
+||cdn.missav.com^$dnsrewrite=NOERROR;A;89.187.162.242
+||cdn.missav.com^$dnsrewrite=NOERROR;A;156.146.56.170
+||cdn.missav.com^$dnsrewrite=NOERROR;A;156.146.56.166
+||cdn.missav.com^$dnsrewrite=NOERROR;A;156.146.56.162
+||cdn.missav.com^$dnsrewrite=NOERROR;A;156.146.56.161
+||cdn.missav.com^$dnsrewrite=NOERROR;A;138.199.46.69
+||cdn.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e00::860:1
+||cdn.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e00::601:1
+||cdn.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e02::946:1
+
 # 禁漫天堂 Start
 104.21.59.186   jmcomic1.mobi cdn-msp.jmcomic1.mobi
 104.21.39.98    jmcomic.mobi cdn-msp.jmcomic.mobi
