@@ -47,6 +47,26 @@
 ||cdn.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e00::601:1
 ||cdn.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e02::946:1
 
+||static.missav.com^$dnsrewrite=NOERROR;A;89.187.162.242
+||static.missav.com^$dnsrewrite=NOERROR;A;156.146.56.170
+||static.missav.com^$dnsrewrite=NOERROR;A;156.146.56.166
+||static.missav.com^$dnsrewrite=NOERROR;A;156.146.56.162
+||static.missav.com^$dnsrewrite=NOERROR;A;156.146.56.161
+||static.missav.com^$dnsrewrite=NOERROR;A;138.199.46.69
+||static.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e00::860:1
+||static.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e00::601:1
+||static.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e02::946:1
+
+||*.missav.com^$dnsrewrite=NOERROR;A;89.187.162.242
+||*.missav.com^$dnsrewrite=NOERROR;A;156.146.56.170
+||*.missav.com^$dnsrewrite=NOERROR;A;156.146.56.166
+||*.missav.com^$dnsrewrite=NOERROR;A;156.146.56.162
+||*.missav.com^$dnsrewrite=NOERROR;A;156.146.56.161
+||*.missav.com^$dnsrewrite=NOERROR;A;138.199.46.69
+||*.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e00::860:1
+||*.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e00::601:1
+||*.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e02::946:1
+
 # 禁漫天堂 Start
 104.21.59.186   jmcomic1.mobi cdn-msp.jmcomic1.mobi
 104.21.39.98    jmcomic.mobi cdn-msp.jmcomic.mobi
