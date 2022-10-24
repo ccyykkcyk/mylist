@@ -22,6 +22,21 @@
 ||picacomic.com^$dnsrewrite=NOERROR;AAAA;2606:4700:10::6816:419f
 ||picacomic.com^$dnsrewrite=NOERROR;AAAA;2606:4700:10::ac43:718
 
+||missav.com^$dnsrewrite=NOERROR;A;172.66.41.44
+||missav.com^$dnsrewrite=NOERROR;A;172.66.42.212
+||missav.com^$dnsrewrite=NOERROR;AAAA;2606:4700:3108::ac42:2ad4
+||missav.com^$dnsrewrite=NOERROR;AAAA;2606:4700:3108::ac42:292c
+
+||video.missav.com^$dnsrewrite=NOERROR;A;89.187.162.242
+||video.missav.com^$dnsrewrite=NOERROR;A;156.146.56.170
+||video.missav.com^$dnsrewrite=NOERROR;A;156.146.56.166
+||video.missav.com^$dnsrewrite=NOERROR;A;156.146.56.162
+||video.missav.com^$dnsrewrite=NOERROR;A;156.146.56.161
+||video.missav.com^$dnsrewrite=NOERROR;A;138.199.46.69
+||video.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e00::860:1
+||video.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e00::601:1
+||video.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e02::946:1
+
 # 禁漫天堂 Start
 104.21.59.186   jmcomic1.mobi cdn-msp.jmcomic1.mobi
 104.21.39.98    jmcomic.mobi cdn-msp.jmcomic.mobi
