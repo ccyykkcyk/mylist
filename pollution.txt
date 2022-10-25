@@ -22,10 +22,10 @@
 ||picacomic.com^$dnsrewrite=NOERROR;AAAA;2606:4700:10::6816:419f
 ||picacomic.com^$dnsrewrite=NOERROR;AAAA;2606:4700:10::ac43:718
 
-||missav.com^$dnsrewrite=NOERROR;A;172.66.41.44
-||missav.com^$dnsrewrite=NOERROR;A;172.66.42.212
-||missav.com^$dnsrewrite=NOERROR;AAAA;2606:4700:3108::ac42:2ad4
-||missav.com^$dnsrewrite=NOERROR;AAAA;2606:4700:3108::ac42:292c
+|missav.com^$dnsrewrite=NOERROR;A;172.66.41.44
+|missav.com^$dnsrewrite=NOERROR;A;172.66.42.212
+|missav.com^$dnsrewrite=NOERROR;AAAA;2606:4700:3108::ac42:2ad4
+|missav.com^$dnsrewrite=NOERROR;AAAA;2606:4700:3108::ac42:292c
 
 ||video.missav.com^$dnsrewrite=NOERROR;A;89.187.162.242
 ||video.missav.com^$dnsrewrite=NOERROR;A;156.146.56.170
@@ -66,6 +66,22 @@
 ||*.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e00::860:1
 ||*.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e00::601:1
 ||*.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e02::946:1
+
+||assets.jable.tv^$dnsrewrite=NOERROR;A;104.21.8.46
+||assets.jable.tv^$dnsrewrite=NOERROR;A;172.67.156.214
+||assets.jable.tv^$dnsrewrite=NOERROR;AAAA;2606:4700:3031::ac43:9cd6
+||assets.jable.tv^$dnsrewrite=NOERROR;AAAA;2606:4700:3033::6815:82e
+||assetscdn.jable.tv^$dnsrewrite=NOERROR;A;51.222.43.21
+||assets-cdn.jable.tv^$dnsrewrite=NOERROR;A;51.161.118.150
+||assets-cdn.jable.tv^$dnsrewrite=NOERROR;A;15.235.9.226
+||assets-cdn.jable.tv^$dnsrewrite=NOERROR;A;51.222.43.21
+|jable.tv$dnsrewrite=NOERROR;A;104.21.8.46
+|jable.tv$dnsrewrite=NOERROR;A;172.67.156.214
+|jable.tv$dnsrewrite=NOERROR;AAAA;2606:4700:3031::ac43:9cd6
+|jable.tv$dnsrewrite=NOERROR;AAAA;2606:4700:3033::6815:82e
+
+15.235.9.226
+51.222.43.21
 
 # 禁漫天堂 Start
 104.21.59.186   jmcomic1.mobi cdn-msp.jmcomic1.mobi
