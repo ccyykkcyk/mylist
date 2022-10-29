@@ -43,23 +43,23 @@
 ||*.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e00::601:1
 ||*.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e02::946:1
 
-||*.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.108.133
-||*.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.109.133
-||*.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.110.133
-||*.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.111.133
-||*.githubusercontent.com^$dnsrewrite=NOERROR;AAAA;2606:50c0:8000::154
-||*.githubusercontent.com^$dnsrewrite=NOERROR;AAAA;2606:50c0:8001::154
-||*.githubusercontent.com^$dnsrewrite=NOERROR;AAAA;2606:50c0:8002::154
-||*.githubusercontent.com^$dnsrewrite=NOERROR;AAAA;2606:50c0:8003::154
+#||*.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.108.133
+#||*.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.109.133
+#||*.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.110.133
+#||*.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.111.133
+#||*.githubusercontent.com^$dnsrewrite=NOERROR;AAAA;2606:50c0:8000::154
+#||*.githubusercontent.com^$dnsrewrite=NOERROR;AAAA;2606:50c0:8001::154
+#||*.githubusercontent.com^$dnsrewrite=NOERROR;AAAA;2606:50c0:8002::154
+#||*.githubusercontent.com^$dnsrewrite=NOERROR;AAAA;2606:50c0:8003::154
 
-||github.io^$dnsrewrite=NOERROR;A;185.199.108.133
-||github.io^$dnsrewrite=NOERROR;A;185.199.109.133
-||github.io^$dnsrewrite=NOERROR;A;185.199.110.133
-||github.io^$dnsrewrite=NOERROR;A;185.199.111.133
-||github.io^$dnsrewrite=NOERROR;AAAA;2606:50c0:8000::154
-||github.io^$dnsrewrite=NOERROR;AAAA;2606:50c0:8001::154
-||github.io^$dnsrewrite=NOERROR;AAAA;2606:50c0:8002::154
-||github.io^$dnsrewrite=NOERROR;AAAA;2606:50c0:8003::154
+#||github.io^$dnsrewrite=NOERROR;A;185.199.108.133
+#||github.io^$dnsrewrite=NOERROR;A;185.199.109.133
+#||github.io^$dnsrewrite=NOERROR;A;185.199.110.133
+#||github.io^$dnsrewrite=NOERROR;A;185.199.111.133
+#||github.io^$dnsrewrite=NOERROR;AAAA;2606:50c0:8000::154
+#||github.io^$dnsrewrite=NOERROR;AAAA;2606:50c0:8001::154
+#||github.io^$dnsrewrite=NOERROR;AAAA;2606:50c0:8002::154
+#||github.io^$dnsrewrite=NOERROR;AAAA;2606:50c0:8003::154
 
 |github.com^$dnsrewrite=NOERROR;A;140.82.112.3
 |github.com^$dnsrewrite=NOERROR;A;140.82.113.3
