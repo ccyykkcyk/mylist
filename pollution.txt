@@ -1,27 +1,3 @@
-#||18comic.vip^$dnsrewrite=NOERROR;A;104.23.128.6
-#||18comic.vip^$dnsrewrite=NOERROR;A;104.23.129.6
-#||18comic.vip^$dnsrewrite=NOERROR;AAAA;2606:4700:11::6817:8006
-#||18comic.vip^$dnsrewrite=NOERROR;AAAA;2606:4700:11::6817:8106
-
-#||18comic.org^$dnsrewrite=NOERROR;A;104.23.133.17
-#||18comic.org^$dnsrewrite=NOERROR;A;104.23.134.17
-#||18comic.org^$dnsrewrite=NOERROR;AAAA;2606:4700:11::6817:8511
-#||18comic.org^$dnsrewrite=NOERROR;AAAA;2606:4700:11::6817:8611
-
-#||jmcomic2.moe^$dnsrewrite=NOERROR;A;104.22.3.186
-#||jmcomic2.moe^$dnsrewrite=NOERROR;A;104.22.2.186
-#||jmcomic2.moe^$dnsrewrite=NOERROR;A;172.67.15.88
-#||jmcomic2.moe^$dnsrewrite=NOERROR;AAAA;2606:4700:10::6816:2ba
-#||jmcomic2.moe^$dnsrewrite=NOERROR;AAAA;2606:4700:10::ac43:f58
-#||jmcomic2.moe^$dnsrewrite=NOERROR;AAAA;2606:4700:10::6816:3ba
-
-||picacomic.com^$dnsrewrite=NOERROR;A;104.22.64.159
-||picacomic.com^$dnsrewrite=NOERROR;A;104.22.65.159
-||picacomic.com^$dnsrewrite=NOERROR;A;172.67.7.24
-||picacomic.com^$dnsrewrite=NOERROR;AAAA;2606:4700:10::6816:409f
-||picacomic.com^$dnsrewrite=NOERROR;AAAA;2606:4700:10::6816:419f
-||picacomic.com^$dnsrewrite=NOERROR;AAAA;2606:4700:10::ac43:718
-
 |missav.com^$dnsrewrite=NOERROR;A;172.66.41.44
 |missav.com^$dnsrewrite=NOERROR;A;172.66.42.212
 |missav.com^$dnsrewrite=NOERROR;AAAA;2606:4700:3108::ac42:2ad4
@@ -67,27 +43,6 @@
 ||*.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e00::601:1
 ||*.missav.com^$dnsrewrite=NOERROR;AAAA;2400:52e0:1e02::946:1
 
-||assets.jable.tv^$dnsrewrite=NOERROR;A;104.21.8.46
-||assets.jable.tv^$dnsrewrite=NOERROR;A;172.67.156.214
-||assets.jable.tv^$dnsrewrite=NOERROR;AAAA;2606:4700:3031::ac43:9cd6
-||assets.jable.tv^$dnsrewrite=NOERROR;AAAA;2606:4700:3033::6815:82e
-||assetscdn.jable.tv^$dnsrewrite=NOERROR;A;51.222.43.21
-||assets-cdn.jable.tv^$dnsrewrite=NOERROR;A;51.161.118.150
-||assets-cdn.jable.tv^$dnsrewrite=NOERROR;A;15.235.9.226
-||assets-cdn.jable.tv^$dnsrewrite=NOERROR;A;51.222.43.21
-|jable.tv$dnsrewrite=NOERROR;A;104.21.8.46
-|jable.tv$dnsrewrite=NOERROR;A;172.67.156.214
-|jable.tv$dnsrewrite=NOERROR;AAAA;2606:4700:3031::ac43:9cd6
-|jable.tv$dnsrewrite=NOERROR;AAAA;2606:4700:3033::6815:82e
-
-||hanime1.me^$dnsrewrite=NOERROR;A;104.26.1.18
-||hanime1.me^$dnsrewrite=NOERROR;A;104.26.0.18
-||hanime1.me^$dnsrewrite=NOERROR;A;172.67.69.183
-
-||madou.club^$dnsrewrite=NOERROR;A;172.67.73.139
-||madou.club^$dnsrewrite=NOERROR;A;104.26.0.177
-||madou.club^$dnsrewrite=NOERROR;A;104.26.1.177
-
 ||*.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.108.133
 ||*.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.109.133
 ||*.githubusercontent.com^$dnsrewrite=NOERROR;A;185.199.110.133
@@ -125,18 +80,6 @@
 |collector.github.com^$dnsrewrite=NOERROR;A;140.82.113.22
 |collector.github.com^$dnsrewrite=NOERROR;A;140.82.114.21
 |collector.github.com^$dnsrewrite=NOERROR;A;140.82.114.22
-
-# 禁漫天堂 Start
-#104.21.59.186   jmcomic1.mobi cdn-msp.jmcomic1.mobi
-#104.21.39.98    jmcomic.mobi cdn-msp.jmcomic.mobi
-#104.21.80.246   jmcomic.asia cdn-msp.jmcomic.asia
-#168.95.246.3    pic.pimg.tw
-#172.67.6.206    jmcomic1.city cdn-msp.jmcomic1.city
-# 禁漫天堂 End
-
-# 哔咔漫画 Start
-#104.22.65.159   img.picacomic.com storage1.picacomic.com picaapi.picacomic.com storage-b.picacomic.com
-# 哔咔漫画 End
 
 # Google
 
