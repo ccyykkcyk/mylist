@@ -1,19 +1,19 @@
-||18comic.vip^$dnsrewrite=NOERROR;A;104.23.128.6
-||18comic.vip^$dnsrewrite=NOERROR;A;104.23.129.6
-||18comic.vip^$dnsrewrite=NOERROR;AAAA;2606:4700:11::6817:8006
-||18comic.vip^$dnsrewrite=NOERROR;AAAA;2606:4700:11::6817:8106
+#||18comic.vip^$dnsrewrite=NOERROR;A;104.23.128.6
+#||18comic.vip^$dnsrewrite=NOERROR;A;104.23.129.6
+#||18comic.vip^$dnsrewrite=NOERROR;AAAA;2606:4700:11::6817:8006
+#||18comic.vip^$dnsrewrite=NOERROR;AAAA;2606:4700:11::6817:8106
 
-||18comic.org^$dnsrewrite=NOERROR;A;104.23.133.17
-||18comic.org^$dnsrewrite=NOERROR;A;104.23.134.17
-||18comic.org^$dnsrewrite=NOERROR;AAAA;2606:4700:11::6817:8511
-||18comic.org^$dnsrewrite=NOERROR;AAAA;2606:4700:11::6817:8611
+#||18comic.org^$dnsrewrite=NOERROR;A;104.23.133.17
+#||18comic.org^$dnsrewrite=NOERROR;A;104.23.134.17
+#||18comic.org^$dnsrewrite=NOERROR;AAAA;2606:4700:11::6817:8511
+#||18comic.org^$dnsrewrite=NOERROR;AAAA;2606:4700:11::6817:8611
 
-||jmcomic2.moe^$dnsrewrite=NOERROR;A;104.22.3.186
-||jmcomic2.moe^$dnsrewrite=NOERROR;A;104.22.2.186
-||jmcomic2.moe^$dnsrewrite=NOERROR;A;172.67.15.88
-||jmcomic2.moe^$dnsrewrite=NOERROR;AAAA;2606:4700:10::6816:2ba
-||jmcomic2.moe^$dnsrewrite=NOERROR;AAAA;2606:4700:10::ac43:f58
-||jmcomic2.moe^$dnsrewrite=NOERROR;AAAA;2606:4700:10::6816:3ba
+#||jmcomic2.moe^$dnsrewrite=NOERROR;A;104.22.3.186
+#||jmcomic2.moe^$dnsrewrite=NOERROR;A;104.22.2.186
+#||jmcomic2.moe^$dnsrewrite=NOERROR;A;172.67.15.88
+#||jmcomic2.moe^$dnsrewrite=NOERROR;AAAA;2606:4700:10::6816:2ba
+#||jmcomic2.moe^$dnsrewrite=NOERROR;AAAA;2606:4700:10::ac43:f58
+#||jmcomic2.moe^$dnsrewrite=NOERROR;AAAA;2606:4700:10::6816:3ba
 
 ||picacomic.com^$dnsrewrite=NOERROR;A;104.22.64.159
 ||picacomic.com^$dnsrewrite=NOERROR;A;104.22.65.159
@@ -127,11 +127,11 @@
 |collector.github.com^$dnsrewrite=NOERROR;A;140.82.114.22
 
 # 禁漫天堂 Start
-104.21.59.186   jmcomic1.mobi cdn-msp.jmcomic1.mobi
-104.21.39.98    jmcomic.mobi cdn-msp.jmcomic.mobi
-104.21.80.246   jmcomic.asia cdn-msp.jmcomic.asia
-168.95.246.3    pic.pimg.tw
-172.67.6.206    jmcomic1.city cdn-msp.jmcomic1.city
+#104.21.59.186   jmcomic1.mobi cdn-msp.jmcomic1.mobi
+#104.21.39.98    jmcomic.mobi cdn-msp.jmcomic.mobi
+#104.21.80.246   jmcomic.asia cdn-msp.jmcomic.asia
+#168.95.246.3    pic.pimg.tw
+#172.67.6.206    jmcomic1.city cdn-msp.jmcomic1.city
 # 禁漫天堂 End
 
 # 哔咔漫画 Start
