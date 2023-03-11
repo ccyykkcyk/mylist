@@ -1,8 +1,8 @@
 name: mylist
 
 on:
-  schedule:
-    - cron: "0 0 * * *"
+  # schedule:
+  #   - cron: "0 0 * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -10,11 +10,11 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - name: Use Node.js
-        uses: actions/setup-node@v1
+      - uses: actions/checkout@v3
+
+      - uses: actions/setup-node@v3
         with:
-          node-version: 14.x
+          node-version: 16
 
       - name: yarn
         run: |
@@ -23,14 +23,14 @@ jobs:
       - name: run
         run: |
           yarn run filter
-          yarn run trackerslist_all
-          yarn run trackerslist_best
+          # yarn run trackerslist_all
+          # yarn run trackerslist_best
 
-      - name: format
-        run: |
-          sed -i '/^!/d;/^\s*$/d' trackerslist_all.txt
-          sed -i '/^!/d;/^\s*$/d' trackerslist_best.txt
-          sed -i '/^\s*$/d' filter.txt
+      # - name: format
+      #   run: |
+      #     # sed -i '/^!/d;/^\s*$/d' trackerslist_all.txt
+      #     # sed -i '/^!/d;/^\s*$/d' trackerslist_best.txt
+      #     sed -i '/^\s*$/d' filter.txt
 
       - name: commit
         run: |
@@ -38,4 +38,4 @@ jobs:
           git config user.email "<>"
           git add -u
           git commit -m "update"
-          git push origin main
+          git push origin dev
