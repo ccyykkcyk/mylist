@@ -23,7 +23,9 @@
                 "RemoveModifiers",
                 "RemoveComments"
             ],
-            "exclusions":["alicdn.com"]
+            "exclusions": [
+                "alicdn.com"
+            ]
         },
         {
             "name": "ADgk",
@@ -34,7 +36,9 @@
                 "RemoveModifiers",
                 "RemoveComments"
             ],
-            "exclusions":["||xn--"]
+            "exclusions": [
+                "||xn--"
+            ]
         },
         {
             "name": "NEO DEV HOST",
@@ -161,7 +165,7 @@
         }
     ],
     "exclusions_sources": [
-        "https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/exclusions.txt"
+        "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt"
     ],
     "transformations": [
         "Compress",
