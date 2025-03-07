@@ -243,7 +243,7 @@ delayed-stream@~1.0.0:
 
 "diff@git+https://github.com/105th/jsdiff.git#2be2e7df90e8eebd99f0385c7b1dc16c2f4dcc1a":
   version "5.1.1"
-  resolved "git+ssh://git@github.com/105th/jsdiff.git"
+  resolved "git+ssh://git@github.com/105th/jsdiff.git#2be2e7df90e8eebd99f0385c7b1dc16c2f4dcc1a"
   integrity sha512-QtrB1/8X6AttelnC4p1CSXsSgeOFLk8dbR4tvqcCfcOPv/9cftksHsrlj5E4oojreYZ+g6KVJRJdrewhRSAKjg==
 
 dunder-proto@^1.0.1:
