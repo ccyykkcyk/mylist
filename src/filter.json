@@ -42,7 +42,7 @@
         },
         {
             "name": "NEO DEV HOST",
-            "source": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host",
+            "source": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/host",
             "type": "hosts",
             "transformations": [
                 "Validate",
