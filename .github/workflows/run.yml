@@ -18,16 +18,20 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: 'lts/*'
+          cache: 'npm'
+          cache-dependency-path: '**/package-lock.json'
 
       - name: dep install
-        run: |
-          yarn install --immutable
+        run: npm ci
 
-      - name: run
-        run: |
-          yarn run filter
-          yarn run trackerslist_all
-          yarn run trackerslist_best
+      - name: filter
+        run: npm run filter
+      
+      - name: trackerslist_all
+        run: npm run trackerslist_all
+      
+      - name: trackerslist_best
+        run: npm run trackerslist_best
 
       - name: format
         run: |
