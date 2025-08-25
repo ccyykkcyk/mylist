@@ -6,6 +6,6 @@
         "trackerslist_best": "hostlist-compiler -c src/trackerslist_best.json -o trackerslist_best.txt"
     },
     "dependencies": {
-        "@adguard/hostlist-compiler": "1.0.12"
+        "@adguard/hostlist-compiler": "1.0.39"
     }
 }

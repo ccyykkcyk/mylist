@@ -16,12 +16,15 @@
         },
         {
             "name": "GoodbyeAds Xiaomi AdBlock",
-            "source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt",
+            "source": "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt",
             "type": "hosts",
             "transformations": [
                 "Validate",
                 "RemoveModifiers",
                 "RemoveComments"
+            ],
+            "exclusions": [
+                "alicdn.com"
             ]
         },
         {
@@ -32,11 +35,14 @@
                 "Validate",
                 "RemoveModifiers",
                 "RemoveComments"
+            ],
+            "exclusions": [
+                "||xn--"
             ]
         },
         {
             "name": "NEO DEV HOST",
-            "source": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/lite_host",
+            "source": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/host",
             "type": "hosts",
             "transformations": [
                 "Validate",
@@ -129,7 +135,7 @@
             "source": "https://raw.githubusercontent.com/notracking/hosts-blocklists/master/adblock/adblock.txt",
             "type": "adblock",
             "exclusions": [
-                "||tl88.net"
+                "||cdn.dnsv1.com"
             ],
             "transformations": [
                 "Validate",
@@ -159,7 +165,7 @@
         }
     ],
     "exclusions_sources": [
-        "https://github.com/AdguardTeam/AdGuardSDNSFilter/blob/master/Filters/exclusions.txt"
+        "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt"
     ],
     "transformations": [
         "Compress",

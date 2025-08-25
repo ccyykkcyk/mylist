@@ -2,7 +2,7 @@ name: mylist
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 12 * * *"
   workflow_dispatch:
 jobs:
   build:
@@ -10,21 +10,28 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v2
-      - name: Use Node.js
-        uses: actions/setup-node@v1
+      - uses: actions/checkout@v4
         with:
-          node-version: 14.x
+          ref: main
+          
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 'lts/*'
+          cache: 'npm'
+          cache-dependency-path: '**/package-lock.json'
 
-      - name: yarn
-        run: |
-          yarn install
+      - name: dep install
+        run: npm ci
 
-      - name: run
-        run: |
-          yarn run filter
-          yarn run trackerslist_all
-          yarn run trackerslist_best
+      - name: filter
+        run: npm run filter
+      
+      - name: trackerslist_all
+        run: npm run trackerslist_all
+      
+      - name: trackerslist_best
+        run: npm run trackerslist_best
 
       - name: format
         run: |
