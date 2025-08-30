@@ -32,6 +32,11 @@ jobs:
       - name: trackerslist_best
         run: npm run trackerslist_best
 
+      - name: format
+        run: |
+          sed -i '/^!/d' trackerslist_all.txt
+          sed -i '/^!/d' trackerslist_best.txt
+
       - name: commit and push
         uses: actions-js/push@v1.5
         with:
