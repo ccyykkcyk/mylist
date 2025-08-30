@@ -6,55 +6,11 @@
             "type": "hosts"
         },
         {
-            "source": "https://raw.githubusercontent.com/XIU2/TrackersListCollection/master/http.txt",
-            "type": "hosts"
-        },
-        {
             "source": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all.txt",
             "type": "hosts"
         },
         {
-            "source": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ip.txt",
-            "type": "hosts"
-        },
-        {
-            "source": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_udp.txt",
-            "type": "hosts"
-        },
-        {
-            "source": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_http.txt",
-            "type": "hosts"
-        },
-        {
-            "source": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_https.txt",
-            "type": "hosts"
-        },
-        {
-            "source": "https://raw.githubusercontent.com/ngosang/trackerslist/master/trackers_all_ws.txt",
-            "type": "hosts"
-        },
-        {
             "source": "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all.txt",
-            "type": "hosts"
-        },
-        {
-            "source": "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_udp.txt",
-            "type": "hosts"
-        },
-        {
-            "source": "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_http.txt",
-            "type": "hosts"
-        },
-        {
-            "source": "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_https.txt",
-            "type": "hosts"
-        },
-        {
-            "source": "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_ws.txt",
-            "type": "hosts"
-        },
-        {
-            "source": "https://raw.githubusercontent.com/DeSireFire/animeTrackerList/master/AT_all_ip.txt",
             "type": "hosts"
         },
         {
@@ -68,6 +24,8 @@
     ],
     "transformations": [
         "Deduplicate",
-        "RemoveComments"
+        "RemoveComments",
+        "RemoveEmptyLines",
+        "TrimLines"
     ]
 }

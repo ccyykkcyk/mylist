@@ -1,0 +1,70 @@
+{
+    "name": "new_filter",
+    "description": "Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.",
+    "homepage": "https://github.com/ccyykkcyk/mylist",
+    "license": "",
+    "sources": [
+        {
+            "name": "AdGuard DNS filter",
+            "source": "https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt",
+            "type": "adblock",
+            "transformations": [
+                "ValidateAllowIp"
+            ]
+        },
+        {
+            "name": "Steven Black's List",
+            "source": "https://raw.githubusercontent.com/StevenBlack/hosts/master/hosts",
+            "type": "hosts",
+            "transformations": [
+                "Validate"
+            ],
+            "exclusions": [
+                "localhost.localdomain"
+            ]
+        },
+        {
+            "name": "AWAvenue Ads Rule",
+            "source": "https://raw.githubusercontent.com/TG-Twilight/AWAvenue-Ads-Rule/main/AWAvenue-Ads-Rule.txt",
+            "type": "adblock",
+            "transformations": [
+                "Validate"
+            ]
+        },
+        {
+            "name": "neodevhost",
+            "source": "https://raw.githubusercontent.com/neodevpro/neodevhost/master/adblocker",
+            "type": "adblock",
+            "transformations": [
+                "Validate"
+            ]
+        },
+        {
+            "name": "WindowsSpyBlocker",
+            "source": "https://raw.githubusercontent.com/crazy-max/WindowsSpyBlocker/master/data/hosts/spy.txt",
+            "type": "hosts",
+            "transformations": [
+                "Validate"
+            ]
+        },
+        {
+            "name": "HaGeZi's Pro Blocklist",
+            "source": "https://raw.githubusercontent.com/hagezi/dns-blocklists/main/adblock/pro.txt",
+            "type": "adblock",
+            "transformations": [
+                "RemoveModifiers",
+                "Validate"
+            ]
+        }
+    ],
+    "exclusions_sources": [
+        "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/master/Filters/exclusions.txt"
+    ],
+    "transformations": [
+        "RemoveComments",
+        "Deduplicate",
+        "Compress",
+        "RemoveEmptyLines",
+        "TrimLines"
+    ]
+}

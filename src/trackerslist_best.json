@@ -32,6 +32,8 @@
     ],
     "transformations": [
         "Deduplicate",
-        "RemoveComments"
+        "RemoveComments",
+        "RemoveEmptyLines",
+        "TrimLines"
     ]
 }

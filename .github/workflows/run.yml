@@ -6,43 +6,37 @@ on:
   workflow_dispatch:
 jobs:
   build:
-
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
         with:
           ref: main
-          
+
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
-          node-version: 'lts/*'
-          cache: 'npm'
-          cache-dependency-path: '**/package-lock.json'
+          node-version: "lts/*"
+          cache: "npm"
+          cache-dependency-path: "**/package-lock.json"
 
       - name: dep install
         run: npm ci
 
-      - name: filter
-        run: npm run filter
-      
+      - name: new_filter
+        run: npm run new_filter
+
       - name: trackerslist_all
         run: npm run trackerslist_all
-      
+
       - name: trackerslist_best
         run: npm run trackerslist_best
 
-      - name: format
-        run: |
-          sed -i '/^!/d;/^\s*$/d' trackerslist_all.txt
-          sed -i '/^!/d;/^\s*$/d' trackerslist_best.txt
-          sed -i '/^\s*$/d' filter.txt
-
-      - name: commit
-        run: |
-          git config user.name "GitHub Actions"
-          git config user.email "<>"
-          git add -u
-          git commit -m "update"
-          git push origin main
+      - name: commit and push
+        uses: actions-js/push@v1.5
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          author_email: "91893497+ccyykkcyk@users.noreply.github.com"
+          author_name: "ccyykkcyk"
+          branch: main
+          message: "update"
