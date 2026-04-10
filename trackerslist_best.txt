@@ -1,25 +1,14 @@
 http://1337.abcvg.info:80/announce
 http://nyaa.tracker.wf:7777/announce
-http://open.acgtracker.com:1096/announce
-http://tracker.skyts.net:6969/announce
 https://tr.abiir.top:443/announce
+https://tr.abir.ga:443/announce
 https://tracker1.520.jp:443/announce
 udp://open.demonii.com:1337/announce
 udp://opentor.org:2710/announce
 udp://p4p.arenabg.com:1337/announce
 udp://tracker.skyts.net:6969/announce
-udp://tracker.opentrackr.org:1337/announce
-udp://wepzone.net:6969/announce
-udp://tracker.theoks.net:6969/announce
-udp://tracker.darkness.services:6969/announce
-udp://tracker.004430.xyz:1337/announce
-udp://t.overflow.biz:6969/announce
-https://tracker.yemekyedim.com:443/announce
-https://tracker.moeking.me:443/announce
-https://tracker.gcrenwp.top:443/announce
-https://tracker.bt4g.com:443/announce
-https://cny.fan:443/announce
-udp://44.30.4.4:6969/announce
+udp://93.158.213.92:1337/announce
+udp://185.121.24.141:6969/announce
 udp://89.234.156.205:451/announce
 udp://209.141.59.16:6969/announce
 udp://43.250.54.137:6969/announce
@@ -28,17 +17,16 @@ udp://34.66.57.33:80/announce
 udp://192.3.130.53:1337/announce
 udp://189.18.126.32:6969/announce
 udp://185.243.218.213:80/announce
+udp://107.189.2.131:1337/announce
+udp://185.189.13.108:6969/announce
 http://34.66.57.33:2701/announce
 http://34.66.57.33:2710/announce
-http://211.75.205.189:80/announce
-http://167.253.78.20:8080/announce
+http://216.144.239.90:6969/announce
+http://34.66.57.33:6969/announce
 http://95.217.167.10:6969/announce
+http://34.66.57.33:80/announce
 http://140.235.237.23:6969/announce
-http://207.211.184.229:6969/announce
-http://34.66.57.33:443/announce
-udp://132.226.6.145:6969/announce
-udp://23.175.184.30:23333/announce
-udp://209.50.255.93:3218/announce
+http://34.66.57.33:1337/announce
 http://tracker.gbitt.info/announce
 https://tracker.lilithraws.cf/announce
 https://tracker1.520.jp/announce
@@ -66,126 +54,18 @@ http://torrentsmd.com:8080/announce
 https://tracker.gbitt.info/announce
 udp://tracker.sylphix.com:6969/announce
 http://51.79.71.167/announce
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Torrent Search</title>
-<!-- This site is optimized with the Yoast SEO plugin v11.3 - https://yoast.com/wordpress/plugins/seo/ -->
-<!-- / Yoast SEO plugin. -->
-<link rel='dns-prefetch' href='//s.w.org' />
-<link rel='stylesheet' id='normalize-css'  href='https://torrends.to/theme/assets/css/normalize.css?ver=5.5.14' type='text/css' media='all' />
-<link rel='stylesheet' id='sbasic-css'  href='https://torrends.to/theme/assets/css/sbasic.css?ver=5.5.14' type='text/css' media='all' />
-<link rel='stylesheet' id='fdn-css'  href='https://torrends.to/theme/assets/css/fdn.css?ver=5.5.14' type='text/css' media='all' />
-<link rel='stylesheet' id='global-css'  href='https://torrends.to/theme/assets/css/global.css?ver=5.5.14' type='text/css' media='all' />
-<link rel='stylesheet' id='head-foot-css'  href='https://torrends.to/theme/assets/css/head-foot.css?ver=5.5.14' type='text/css' media='all' />
-<link rel='stylesheet' id='pages-css'  href='https://torrends.to/theme/assets/css/pages.css?ver=5.5.14' type='text/css' media='all' />
-<link rel='stylesheet' id='sites-css'  href='https://torrends.to/theme/assets/css/sites.css?ver=5.5.14' type='text/css' media='all' />
-<link rel='stylesheet' id='frontpage-css'  href='https://torrends.to/theme/assets/css/frontpage.css?ver=5.5.14' type='text/css' media='all' />
-<link rel='stylesheet' id='category-css'  href='https://torrends.to/theme/assets/css/category.css?ver=5.5.14' type='text/css' media='all' />
-<link rel='stylesheet' id='search-css'  href='https://torrends.to/theme/assets/css/search.css?ver=5.5.14' type='text/css' media='all' />
-<link rel='stylesheet' id='settings-css'  href='https://torrends.to/theme/assets/css/settings.css?ver=5.5.14' type='text/css' media='all' />
-<link rel='stylesheet' id='das-css'  href='https://torrends.to/theme/assets/css/das.css?ver=5.5.14' type='text/css' media='all' />
-<style type="text/css">.broken_link, a.broken_link {
-text-decoration: line-through;
-}</style>	<meta name="robots" content="noindex,nofollow">	<script type="text/javascript">
-var ajaxurl = "https://torrends.to/ajax.php";
-var siteurl = "https://torrends.to";
-var searchUrl = "https://search.torrends.to";
-<link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
-<link href='https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600' rel='stylesheet' type='text/css'>
-<link href='https://fonts.googleapis.com/css?family=Montserrat:400,700' rel='stylesheet' type='text/css'>
-<link rel="search" type="application/opensearchdescription+xml" title="Torrents Search" href="/opensearch.xml"/>
-<link rel="icon" type="image/png" href="https://torrends.to/theme/assets/img/favicon.png">
-</head>
-<body>
-<div class="search-panel">
-<div class="row">
-<div class="small-12 large-8 columns">
-<div class="s-form">
-<div class="logo-s"><a href="https://torrends.to"><img src="https://torrends.to/theme/assets/img/logo-s.png" alt="torrents" /></a></div>
-<div class="form-wrap">
-<form method="POST" action="https://search.torrends.to/ajax.php:" class="nav-search-form">
-<div class="nav-right">
-<div class="nav-search-submit">
-<button type="reset" class="clear-search-input" style="display:none !important;"><i class="fa fa-times"></i></button><button type="submit" class="btn-submit-search"><i class="fa fa-search"></i></button>
-<div class="nav-fill">
-<div class="nav-search-field"><input type="text" class="nav-search-input" value="ajax.php" /></div>
-</form>
-</div><!-- s-form -->
-<div class="scroll-btns invisible" style="float:right">
-<a href="#" title="" class="scroll-right"><i class="fa fa-angle-left" aria-hidden="true"></i></a>
-<a href="#" title="" class="scroll-left"><i class="fa fa-angle-right" aria-hidden="true"></i></a>
-<div class="s-sites">
-<span class="spinner" style="float:left"></span>
-<ul class="search-sites">
-<li class="search-site site-selected">
-<a href="https://search.torrends.to/ajax.php:torrentseeker" id="2268" title="Search torrents on Torrentseeker"
-data-name="torrentseeker" data-proxy="https://torrentseeker.com" data-url="https://torrentseeker.com" data-search-url="search.php?q=@@s@@" rel="nofollow">
-Torrentseeker              </a>
-<a href="https://search.torrends.to/ajax.php:torrentgalaxy" id="5566" title="Search torrents on TorrentGalaxy"
-data-name="torrentgalaxy" data-proxy="https://torrentgalaxy.mx" data-url="https://torrentgalaxy.to" data-search-url="torrents.php?search=@@s@@#results" rel="nofollow">
-TorrentGalaxy              </a>
-<a href="https://search.torrends.to/ajax.php:pirate-bay-search" id="6443" title="Search torrents on TPB"
-data-name="pirate-bay-search" data-proxy="" data-url="https://pirate-proxy.click" data-search-url="search.php?q=@@s@@" rel="nofollow">
-TPB              </a>
-<a href="https://search.torrends.to/ajax.php:nyaa-si" id="3583" title="Search torrents on Nyaa"
-data-name="nyaa-si" data-proxy="https://nyaatorrents.info" data-url="https://nyaa.si" data-search-url="?f=0&c=0_0&q=@@s@@" rel="nofollow">
-Nyaa              </a>
-<a href="https://search.torrends.to/ajax.php:1337x" id="273" title="Search torrents on 1337x"
-data-name="1337x" data-proxy="https://1337x.is" data-url="https://x1337x.se" data-search-url="srch?search=@@s@@" rel="nofollow">
-1337x              </a>
-<li class="search-site ">
-<a href="https://search.torrends.to/ajax.php:yts" id="710" title="Search torrents on YTS"
-data-name="yts" data-proxy="https://yts.unblocked.win" data-url="https://yts.unblockit.mov" data-search-url="browse-movies/@@s@@" rel="nofollow">
-YTS              </a>
-</li>
-<li class="add-more-link"><a href="https://torrends.to/settings/" rel="nofollow" onclick="ga('send', 'event', 'Feature', 'click', 'Add torrent sites');">Add torrent sites</a></li>
-</ul>
-</div><!-- s-sites -->
-</div><!-- large-4 -->
-<div class="large-4 show-for-large-up columns">
-<div class="s-options">
-<div class="search-options">
-<a href="https://torrends.to/settings/" rel="nofollow" onclick="ga('send', 'event', 'Feature', 'click', 'Search settings link');">Customize Search Sites</a>
-<div class="switch-wrapper">
-<span>Proxy</span>
-<fieldset class="switch" tabindex="0">
-<input id="toggle-site-proxy" type="checkbox"  onclick="ga('send', 'event', 'Feature', 'click', 'Proxy on-off');">
-<label for="toggle-site-proxy"></label>
-</fieldset>
-</div>
-</div><!-- s-option -->
-</div><!-- large-3 -->
-</div><!-- row -->
-</div><!-- search-panel -->
-<div class="target-site">
-<iframe class="target-site-frame" src="https://torrentseeker.com/search.php?q=ajax.php"></iframe>
-</div><!-- target-site -->
-<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.1/jquery.min.js"></script>
-<script src="https://torrends.to/theme/assets/js/jquery-ui.min.js"></script>
-<script src="https://torrends.to/theme/assets/js/foundation.min.js"></script>
-<script src="https://torrends.to/theme/assets/js/foundation.tab.js"></script>
-<script type="text/javascript">$(document).foundation();</script>
-<script src="https://torrends.to/theme/assets/js/script.js"></script>
-<!-- Google Analytics -->
-})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-137843655-1', 'auto');
-ga('send', 'pageview');
-<!-- End Google Analytics -->
-<script>
-(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-ga('create', 'UA-91357-1', 'auto');
-if ( $(".nav-search-input").val() != "" ) {
-ga('send', 'event', 'Search', 'search', $(".nav-search-input").val() );
-}
-</script>
-</body>
-</html>
+udp://tracker.opentrackr.org:1337/announce
+udp://tracker.wepzone.net:6969/announce
+udp://tracker.theoks.net:6969/announce
+udp://tracker.darkness.services:6969/announce
+udp://tracker.004430.xyz:1337/announce
+udp://t.overflow.biz:6969/announce
+udp://opentracker.io:6969/announce
+udp://6ahddutb1ucc3cp.ru:6969/announce
+https://tracker.yemekyedim.com:443/announce
+https://tracker.gcrenwp.top:443/announce
+https://tr.nyacat.pw:443/announce
+http://www.torrentsnipe.info:2701/announce
 udp://open.stealth.si:80/announce
 udp://tracker.torrent.eu.org:451/announce
 http://tracker.mywaifu.best:6969/announce
@@ -196,7 +76,6 @@ udp://evan.im:6969/announce
 udp://bittorrent-tracker.e-n-c-r-y-p-t.net:1337/announce
 udp://martin-gebhardt.eu:25/announce
 https://shahidrazi.online:443/announce
-https://tracker.pmman.tech:443/announce
 udp://tracker.t-1.org:6969/announce
 http://wegkxfcivgx.ydns.eu:80/announce
 http://echostar.ddnsfree.com:8080/announce
@@ -211,32 +90,32 @@ udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.corpscorp.online:80/announce
 https://tracker.qingwapt.org:443/announce
 http://tracker.exe.in.th:6969/announce
+https://tracker.pmman.tech:443/announce
 udp://tracker.gmi.gd:6969/announce
 udp://udp.tracker.projectk.org:23333/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.opentorrent.top:6969/announce
 udp://tracker.ixuexi.click:6969/announce
 udp://uabits.today:6990/announce
+https://tracker.yggleak.top:443/announce
 https://tracker.7471.top:443/announce
 udp://tracker.srv00.com:6969/announce
-http://lucke.fenesisu.moe:6969/announce
 udp://tracker.torrust-demo.com:6969/announce
-https://tracker.manager.v6.navy:443/announce
-http://ipv6.rer.lol:6969/announce
+http://lucke.fenesisu.moe:6969/announce
 https://http1.torrust-tracker-demo.com:443/announce
-http://taciturn-shadow.spb.ru:6969/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
+http://ipv6.rer.lol:6969/announce
 https://t.213891.xyz:443/announce
+http://taciturn-shadow.spb.ru:6969/announce
 udp://tracker.dler.com:6969/announce
-https://tr.nyacat.pw:443/announce
-https://tracker.yggleak.top:443/announce
 udp://tracker.breizh.pm:6969/announce
-https://pybittrack.retiolus.net:443/announce
 https://torrent.tracker.durukanbal.com:443/announce
 https://tracker.ghostchu-services.top:443/announce
+https://pybittrack.retiolus.net:443/announce
 http://tracker.tritan.gg:8080/announce
 udp://bt.rer.lol:6969/announce
-udp://www.nartlof.com:6969/announce
 https://tracker.nekomi.cn:443/announce
+udp://www.nartlof.com:6969/announce
 https://tracker.zhuqiy.com:443/announce
 udp://admin.52ywp.com:6969/announce
+https://tracker.manager.v6.navy:443/announce
