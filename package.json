@@ -7,6 +7,6 @@
         "new_filter": "hostlist-compiler -c src/new_filter.json -o new_filter.txt"
     },
     "dependencies": {
-        "@adguard/hostlist-compiler": "2.0.0"
+        "@adguard/hostlist-compiler": "2.1.0"
     }
 }
