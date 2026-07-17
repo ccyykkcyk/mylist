@@ -2,9 +2,8 @@ http://107.189.2.131:1337/announce
 http://announce.sktorrent.eu:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 http://retracker01-msk-virt.corbina.net:80/announce
-http://supertracker.cc.cd:80/announce
 http://tracker.opentorrent.top:6969/announce
-http://tracker.plx.im:6969/announce
+http://tracker.xn--djrq4gl4hvoi.top:80/announce
 http://tracker.zhuqiy.dgj055.icu:80/announce
 https://tracker.adgk.net:443/announce
 https://tracker.qingwapt.org:443/announce
@@ -15,6 +14,7 @@ udp://archive.torrentonline.cc:42069/announce
 udp://coeus.torrentonline.cc:42069/announce
 udp://obey.torrentonline.cc:42069/announce
 udp://opentor.org:2710/announce
+udp://seedpeer.net:6969/announce
 udp://tracker.breizh.pm:6969/announce
 udp://tracker.plx.im:6969/announce
 udp://v6.vito-tracker.space:6969/announce
@@ -1119,7 +1119,6 @@ https://tracker.yemekyedim.com:443/announce
 http://tracker1.torrentino.com/announce
 http://bobbialbano.com:6969/announce
 https://bt.beatrice-raws.org/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
 udp://zer0day.ch:1337/announce
 udp://tracker.publictracker.xyz:6969/announce
 udp://tracker.opentrackr.org:1337/announce
@@ -1133,6 +1132,7 @@ udp://tr4ck3r.duckdns.org:6969/announce
 udp://torrentclub.online:54123/announce
 udp://retracker01-msk-virt.corbina.net:80/announce
 udp://rekcart.duckdns.org:15480/announce
+udp://open.stealth.si:80/announce
 udp://tracker.dler.com:6969/announce
 http://tracker.bt4g.com:2095/announce
 udp://tracker-udp.gbitt.info:80/announce
@@ -1159,20 +1159,19 @@ udp://tracker.peerfect.org:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.qu.ax:6969/announce
+http://tracker.waaa.moe:6969/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://anime-tracker.aruku.kro.kr:8081/announce
 https://tracker.anibt.net:443/announce
 udp://mail.segso.net:6969/announce
 udp://tracker.opentrackr.com:6969/announce
-http://tracker.waaa.moe:6969/announce
 https://tracker.leechshield.link:443/announce
 udp://tracker.bluefrog.pw:2710/announce
-udp://open.ftorrent.com:443/announce
-udp://open.stealth.si:80/announce
 udp://tracker.gmi.gd:6969/announce
 udp://tracker.teambelgium.net:6969/announce
 http://tracker.dhitechnical.com:6969/announce
 udp://tracker.nyaa.vc:6969/announce
+udp://open.ftorrent.com:443/announce
 udp://tracker.wildkat.net:6969/announce
 udp://torrentclub.online:1984/announce
 udp://tracker.opentorrent.top:6969/announce
