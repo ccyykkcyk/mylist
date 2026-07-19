@@ -2,11 +2,8 @@ http://107.189.2.131:1337/announce
 http://announce.sktorrent.eu:6969/announce
 http://ns3109441.mypdns.org:6969/announce
 http://retracker01-msk-virt.corbina.net:80/announce
-http://supertracker.cc.cd:80/announce
 http://tracker.opentorrent.top:6969/announce
 http://tracker.xn--djrq4gl4hvoi.top:80/announce
-http://tracker.zhuqiy.dgj055.icu:80/announce
-https://tracker.adgk.net:443/announce
 https://tracker.qingwapt.org:443/announce
 udp://93.158.213.92:6969/announce
 udp://[2a03:7220:8083:cd00::1]:451/announce
@@ -1158,10 +1155,10 @@ udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.dler.com:6969/announce
 udp://tracker.qu.ax:6969/announce
 http://tracker.waaa.moe:6969/announce
+https://tracker.leechshield.link:443/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://mail.segso.net:6969/announce
 udp://tracker.opentrackr.com:6969/announce
-https://tracker.leechshield.link:443/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.dhitechnical.com:6969/announce
@@ -1177,5 +1174,6 @@ http://bt1.archive.org:6969/announce
 http://bt2.archive.org:6969/announce
 http://tracker.ipv6tracker.ru:80/announce
 udp://t.overflow.biz:6969/announce
+http://tracker.zhuqiy.dgj055.icu:80/announce
 http://tracker.renfei.net:8080/announce
 https://tracker.zhuqiy.com:443/announce
