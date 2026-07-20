@@ -1,9 +1,7 @@
 http://107.189.2.131:1337/announce
 http://announce.sktorrent.eu:6969/announce
-http://ns3109441.mypdns.org:6969/announce
 http://retracker01-msk-virt.corbina.net:80/announce
-http://tracker.opentorrent.top:6969/announce
-http://tracker.xn--djrq4gl4hvoi.top:80/announce
+http://tracker.plx.im:6969/announce
 https://tracker.qingwapt.org:443/announce
 udp://93.158.213.92:6969/announce
 udp://[2a03:7220:8083:cd00::1]:451/announce
@@ -13,9 +11,6 @@ udp://coeus.torrentonline.cc:42069/announce
 udp://obey.torrentonline.cc:42069/announce
 udp://opentor.org:2710/announce
 udp://tracker.breizh.pm:6969/announce
-udp://tracker.flatuslifir.is:6969/announce
-udp://tracker.plx.im:6969/announce
-udp://tracker.tryhackx.org:6969/announce
 udp://v6.vito-tracker.space:6969/announce
 udp://whybother.torrentonline.cc:42069/announce
 http://open.tracker.cl:1337/announce
@@ -1150,6 +1145,7 @@ https://banananetwork.qzz.io:443/announce
 https://021912.xyz:443/announce
 https://ht.therarbg.to:443/announce
 udp://tracker.peerfect.org:6969/announce
+udp://tracker.opentrackr.com:6969/announce
 udp://tracker.ilibr.org:6969/announce
 udp://tracker.nexusstream.eu:6969/announce
 udp://tracker.dler.com:6969/announce
@@ -1158,7 +1154,6 @@ http://tracker.waaa.moe:6969/announce
 https://tracker.leechshield.link:443/announce
 http://echostar.ddnsfree.com:8080/announce
 udp://mail.segso.net:6969/announce
-udp://tracker.opentrackr.com:6969/announce
 udp://tracker.bluefrog.pw:2710/announce
 udp://tracker.gmi.gd:6969/announce
 http://tracker.dhitechnical.com:6969/announce
