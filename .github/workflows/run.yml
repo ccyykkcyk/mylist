@@ -38,7 +38,7 @@ jobs:
           sed -i '/^!/d' trackerslist_best.txt
 
       - name: commit and push
-        uses: actions-js/push@v1.5
+        uses: actions-js/push@v1.6
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           author_email: "91893497+ccyykkcyk@users.noreply.github.com"
