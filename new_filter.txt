@@ -2,7 +2,7 @@
 ! Title: new_filter
 ! Description: Filter composed of several other filters (AdGuard Base filter, Social media filter, Tracking Protection filter, Mobile ads filter, EasyList, EasyPrivacy, etc) and simplified specifically to be better compatible with DNS-level ad blocking.
 ! Homepage: https://github.com/ccyykkcyk/mylist
-! Last modified: 2026-08-11T16:12:34.853Z
+! Last modified: 2026-08-11T16:15:39.931Z
 !
 ! Compiled by @adguard/hostlist-compiler v2.1.0
 !
